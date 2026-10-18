@@ -2,6 +2,10 @@
 
 Arabic-first experimental PWA for LG U+ / Jinheung MTTL-W01 smart power strip.
 
+## Version 1.0.2
+- Browser diagnostic action now confirms every click with an incrementing count and visible timestamp.
+- Results explicitly distinguish browser connectivity from actual hardware connectivity.
+
 ## Version 1.0.1
 - Added a safe, read-only browser connectivity diagnostics panel.
 - Added guided SoftAP setup steps and explicit detection limitations.
