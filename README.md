@@ -2,7 +2,12 @@
 
 Arabic-first experimental PWA for LG U+ / Jinheung MTTL-W01 smart power strip.
 
-## Version 0.1.0
+## Version 1.0.1
+- Added a safe, read-only browser connectivity diagnostics panel.
+- Added guided SoftAP setup steps and explicit detection limitations.
+- No direct hardware connection is claimed or attempted.
+
+## Previous prototype 0.1.0
 - Responsive dashboard, four outlets, customizable local names.
 - Installable web app and offline shell cache.
 - Energy telemetry placeholders; no simulated metrics.
